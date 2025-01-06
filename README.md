@@ -109,42 +109,54 @@ A full stack application using Spring Boot, Angular and MySQL.
 
 ## Home & Login
 ### Home
-![Home Page](./screenshots/home.png "Home Page")
+![home](https://github.com/user-attachments/assets/3c17cfc9-4809-4532-9535-7a8044a083cf)
+
 
 ### Login
-![Login Page](./screenshots/login.png "Login Page")
+![login](https://github.com/user-attachments/assets/088087af-e143-4b27-8ad4-c88673fdeae7)
+
 
 ## Admin
 ### All books present
-![Book List Page](./screenshots/book_list.png "Book List Page")
+![book_list](https://github.com/user-attachments/assets/c325f7c4-5461-463e-9259-b19f658e07d3)
+
 
 ### Adding a book
-![Add Book Page](./screenshots/book_add.png "Add Book Page")
+![book_add](https://github.com/user-attachments/assets/4a3ca309-cb2a-4ee2-bf38-361d4d15b201)
+
 
 ### Updating book details
-![Update Book Page](./screenshots/book_update.png "Update Book Page")
+![book_update](https://github.com/user-attachments/assets/a86fe450-5987-4c07-8927-4aee606b2ddf)
+
 
 ### Borrow history of a book
-![Book Details Page](./screenshots/book_details.png "Book Details Page")
+![book_details](https://github.com/user-attachments/assets/b12d89ba-2161-48e8-9694-55f1a4372c4e)
+
 
 ### All users present
-![User List Page](./screenshots/user_list.png "User List Page")
+![user_list](https://github.com/user-attachments/assets/87453f61-4bda-4021-a003-0d2ce0fc3bf6)
+
 
 ### Adding a user
-![Add User  Page](./screenshots/user_add.png "Add User Page")
+![user_add](https://github.com/user-attachments/assets/5856960a-69e0-4c4c-9000-3f8748746980)
+
 
 ### Borrow history to the user
-![User Details Page](./screenshots/user_details.png "User Details Page")
+![user_details](https://github.com/user-attachments/assets/c3ef4460-d8b8-4152-bd18-4aedf67fb03f)
+
 
 ## User
 ### Borrow book
-![Borrow Book](./screenshots/borrow_book.png "Borrow Book Page")
+![borrow_book](https://github.com/user-attachments/assets/1a16b759-2f93-4e3c-85b8-79770e5dad17)
+
 
 ### Return book
-![Return Book](./screenshots/return_book.png "Return Book Page")
+![return_book](https://github.com/user-attachments/assets/e785588e-d9d3-45f8-a71d-10662d11f374)
+
 
 ### Forbidden
-![Forbidden](./screenshots/forbidden.png "Forbidden Page")
+![forbidden](https://github.com/user-attachments/assets/ee6a3602-705c-4b6e-af4c-e88019785268)
+
 
 <br>
 
